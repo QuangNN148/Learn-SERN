@@ -56,7 +56,7 @@ body {
 }
 
 
-button {
+.banner .btn-start-now button {
     text-transform: uppercase;
     color:green;
     font-size: 20px;    
